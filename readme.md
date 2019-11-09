@@ -16,4 +16,4 @@ PAF-ECF [Thiago Romão]()
 
 **TCHAU**
 
-![](Screens/cat.gif)
+![](cat.gif)
