@@ -2,7 +2,9 @@
 Um codigo para calcular Lagrange.
 
 ## Instalação
-Abrir o arquivo PRINCIPAL.html
+Baixar todos os arquivos.
+
+Abrir o arquivo PRINCIPAL.html.
 
 ## Creditos
 Agradeço muito a meu esforço próprio e ao W3Schools que ajudou nos métodos. 
