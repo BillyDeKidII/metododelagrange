@@ -12,6 +12,10 @@ Para calcular Newton :
 
 Abrir o arquivo NEWTON.html.
 
+Para Instruções em video:
+
+Abrir o arquivo Intruções.wmv
+
 ## Creditos
 Agradeço muito a meu esforço próprio e ao W3Schools que ajudou nos métodos. 
 
